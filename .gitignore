@@ -1,2 +1,7 @@
+.venv
+*.jpg
 *.txt
-!mona_lisa.txt
+
+!examples/*.txt
+!mona_lisa.jpg
+!requirements.txt
